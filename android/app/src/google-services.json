@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614733818937",
+    "project_id": "akasi-crew",
+    "storage_bucket": "akasi-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614733818937:android:86634c3511ef3561b9b1e8",
+        "android_client_info": {
+          "package_name": "com.akasi.akasi_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614733818937-co4tctu0jc63pepo3ps7ga3067icknc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0zBiXEoid2YA93Uyepxa8oEJ6ink8u6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614733818937-co4tctu0jc63pepo3ps7ga3067icknc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
